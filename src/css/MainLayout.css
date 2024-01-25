@@ -1,0 +1,21 @@
+.nav-bar{
+    display: flex;
+    background-color: black;
+    padding: 15px;
+    list-style-type: none;
+    justify-content: space-between;
+    border: 3px solid black;
+    border-radius: 10%;
+    border:3px solid white;
+    border-style: dashed;
+}
+*{
+    font-family:cursive;
+}
+.nav-link{
+    text-decoration: none;
+    color:black;
+    padding:10px;
+    background-color: white;
+    border-radius: 20%;
+}
